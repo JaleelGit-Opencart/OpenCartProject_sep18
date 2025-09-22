@@ -1,0 +1,184 @@
+12:39:23.281 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+12:39:23.437 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+12:39:25.170 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+12:39:25.173 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+12:39:29.921 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+12:40:23.042 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+12:40:23.186 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+12:40:25.498 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+12:40:25.504 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+12:40:30.391 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+12:41:37.266 [main] DEBUG testCases.TC_001_RegisterUser - *** application defects ***
+12:41:37.272 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+12:41:37.407 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+12:41:38.756 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+12:41:38.761 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+12:41:43.631 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+12:42:37.278 [main] DEBUG testCases.TC_001_RegisterUser - *** application defects ***
+12:42:37.283 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+12:42:37.438 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+12:42:39.421 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+12:42:39.421 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+12:42:44.157 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+15:11:14.489 [main] DEBUG testCases.TC_001_RegisterUser - *** application defects ***
+15:11:14.498 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+15:11:14.617 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+15:11:16.359 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+15:11:16.363 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+15:11:21.025 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+15:14:32.306 [main] DEBUG testCases.TC_001_RegisterUser - *** application defects ***
+15:14:32.306 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+15:14:32.439 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+15:14:33.994 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+15:14:33.997 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+15:14:38.689 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+15:20:25.328 [main] DEBUG testCases.TC_001_RegisterUser - *** application defects ***
+15:20:25.331 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+15:20:25.444 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+15:20:27.183 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+15:20:27.183 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+15:20:31.849 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+15:23:54.544 [main] DEBUG testCases.TC_001_RegisterUser - *** application defects ***
+15:23:54.548 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+15:23:54.658 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+15:23:56.173 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+15:23:56.176 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+15:24:00.683 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+15:24:56.490 [main] DEBUG testCases.TC_001_RegisterUser - *** application defects ***
+15:24:56.494 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+15:24:56.613 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+15:24:58.031 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+15:24:58.031 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+15:25:02.613 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+15:28:23.958 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+15:28:24.079 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+15:28:25.802 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+15:28:25.807 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+15:28:30.432 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:46:46.236 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:46:46.388 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:46:48.554 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:46:48.559 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:46:53.247 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:49:25.568 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:49:25.705 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:49:28.054 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:49:28.057 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:49:32.880 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:51:17.655 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:51:18.017 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:51:18.116 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:51:20.391 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:51:20.395 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:51:25.093 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:51:27.782 [TestNG-tests-2] ERROR testCases.TC_001_RegisterUser - Test is failed
+16:51:46.042 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:51:50.453 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:51:50.558 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:51:50.573 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:51:52.955 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:51:52.956 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:51:52.979 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:51:52.979 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:51:57.761 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:51:57.796 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:52:52.717 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:52:52.840 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:52:54.717 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:52:54.721 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:52:57.711 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:52:57.877 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:52:59.384 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:52:59.384 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:52:59.454 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:53:05.473 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:54:21.937 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:54:22.068 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:54:24.098 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:54:24.100 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:54:24.364 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:54:24.482 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:54:26.448 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:54:26.448 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:54:28.878 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:54:31.157 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:55:56.545 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:55:56.545 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+16:55:56.691 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:55:56.704 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+16:55:59.131 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:55:59.133 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:55:59.437 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - clicked on Register
+16:55:59.437 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+16:56:03.723 [TestNG-tests-2] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+16:56:04.069 [TestNG-tests-1] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+17:14:46.368 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+17:14:46.533 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+17:14:48.320 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+17:14:48.322 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+17:14:53.176 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+19:28:01.750 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+19:28:01.838 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+19:28:03.030 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+19:28:03.032 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+19:28:07.383 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+19:29:58.685 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+19:29:58.765 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+19:30:00.789 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+19:30:00.793 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+19:30:05.004 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+11:02:08.431 [main] INFO  testCases.TC_002_LoginTest - **** Login Test started ****
+11:02:09.147 [main] INFO  testCases.TC_002_LoginTest - clicked on Login from dropdown
+11:02:09.359 [main] INFO  testCases.TC_002_LoginTest - entered credentials
+11:02:09.450 [main] INFO  testCases.TC_002_LoginTest - clicked on login
+11:02:10.413 [main] INFO  testCases.TC_002_LoginTest - **** Login Test ended ****
+19:34:33.878 [main] INFO  testCases.TC_002_LoginTest - **** Login Test started ****
+19:34:34.626 [main] INFO  testCases.TC_002_LoginTest - clicked on Login from dropdown
+19:34:34.913 [main] INFO  testCases.TC_002_LoginTest - entered credentials
+19:34:35.029 [main] INFO  testCases.TC_002_LoginTest - clicked on login
+19:34:36.024 [main] INFO  testCases.TC_002_LoginTest - **** Login Test ended ****
+19:36:05.030 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+19:36:05.189 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+19:36:06.916 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+19:36:06.921 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+19:36:11.199 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+19:36:48.351 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+19:36:48.497 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+19:36:50.745 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+19:36:50.750 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+19:36:55.571 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+10:20:03.403 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+10:20:03.538 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+10:20:05.254 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+10:20:05.258 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+10:20:09.983 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+13:00:16.376 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+13:00:16.542 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+13:00:18.941 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+13:00:18.945 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+13:00:23.862 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+13:01:28.051 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+13:01:28.203 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+13:01:30.338 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+13:01:30.340 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+13:01:35.210 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+13:01:41.446 [main] INFO  testCases.TC_002_LoginTest - **** Login Test started ****
+13:01:42.107 [main] INFO  testCases.TC_002_LoginTest - clicked on Login from dropdown
+13:01:42.395 [main] INFO  testCases.TC_002_LoginTest - entered credentials
+13:01:42.512 [main] INFO  testCases.TC_002_LoginTest - clicked on login
+13:01:43.502 [main] INFO  testCases.TC_002_LoginTest - **** Login Test ended ****
+13:19:42.145 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+13:19:42.314 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+13:19:43.606 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+13:19:43.608 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+13:19:48.500 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+13:20:17.854 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+13:20:18.010 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+13:20:19.828 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+13:20:19.832 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+13:20:24.846 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
+13:29:28.267 [main] INFO  testCases.TC_001_RegisterUser -  **** The test TC_001_RegisterUser has started **** 
+13:29:28.415 [main] INFO  testCases.TC_001_RegisterUser - clicked on My Account
+13:29:29.911 [main] INFO  testCases.TC_001_RegisterUser - clicked on Register
+13:29:29.914 [main] INFO  testCases.TC_001_RegisterUser - Entering the details of customer
+13:29:35.274 [main] INFO  testCases.TC_001_RegisterUser - validating the exxpected success message
