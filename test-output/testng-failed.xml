@@ -6,19 +6,14 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="Regression"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testCases.TC_001_RegisterUser">
+      <class name="testCases.TC_004_Search">
         <methods>
-          <include name="SetUp"/>
+          <include name="iMacExists"/>
           <include name="tearDown"/>
-          <include name="Register"/>
+          <include name="SetUp"/>
         </methods>
-      </class> <!-- testCases.TC_001_RegisterUser -->
+      </class> <!-- testCases.TC_004_Search -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -26,6 +26,8 @@ public class HomePage extends BasePage {
 	   // element3 : login
 	   
 	   @FindBy(xpath = "//a[normalize-space()='Login']") WebElement but_login_ele;
+	   @FindBy(name = "search") WebElement txt_Search_ele;
+		@FindBy(xpath = "//span/button[@type=\"button\"]") WebElement but_Search_ele;
 	   
 	 // action methods
 	   //method 1:  clicking dropdown
@@ -42,5 +44,18 @@ public class HomePage extends BasePage {
        
        public void clickLogin()
        {
-    	   but_login_ele.click();       }
+    	   but_login_ele.click();       
+    	   
+       }
+       
+       public void searchItem(String item)
+   	{
+   		txt_Search_ele.sendKeys(item);;
+   		
+   	}
+   	
+   	public void searchButton()
+   	{
+   		but_Search_ele.click();
+   	}
 }

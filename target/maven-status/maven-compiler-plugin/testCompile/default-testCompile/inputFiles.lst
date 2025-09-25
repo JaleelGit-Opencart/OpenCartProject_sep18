@@ -3,10 +3,13 @@ C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\p
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\LoginPage.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\RegisterPage.java
+C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\SearchPage.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testBase\BaseTest.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testCases\TC_001_RegisterUser.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testCases\TC_002_LoginTest.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testCases\TC_003_LoginDataDrivenTest.java
+C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testCases\TC_004_Search.java
+C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testCases\TC_005_AdvSearch.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\utilities\DataProviders.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\utilities\ExcelUtility.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\utilities\ExtentReportManager.java

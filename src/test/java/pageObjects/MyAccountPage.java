@@ -18,6 +18,8 @@ public class MyAccountPage extends BasePage {
 	@FindBy(xpath = "//h2[normalize-space()='My Account']") WebElement lab_MyAccount_ele;
 	@FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Logout']") WebElement opt_Logout_ele;
 	
+	
+	
 // action methods
 	
 	public Boolean MyAccDisplayed() 
@@ -37,6 +39,7 @@ public class MyAccountPage extends BasePage {
 	{
 		opt_Logout_ele.click();
 	}
+	
 	
 	
 }

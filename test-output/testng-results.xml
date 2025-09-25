@@ -2,18 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-21T10:19:53 IST" name="Failed suite [Suite]" finished-at="2025-09-21T10:20:10 IST" duration-ms="16338">
+  <suite started-at="2025-09-25T16:52:09 IST" name="Suite" finished-at="2025-09-25T16:52:17 IST" duration-ms="8293">
     <groups>
-      <group name="Master">
-        <method signature="TC_001_RegisterUser.Register()[pri:0, instance:testCases.TC_001_RegisterUser@6c40365c]" name="Register" class="testCases.TC_001_RegisterUser"/>
-      </group> <!-- Master -->
-      <group name="Regression">
-        <method signature="TC_001_RegisterUser.Register()[pri:0, instance:testCases.TC_001_RegisterUser@6c40365c]" name="Register" class="testCases.TC_001_RegisterUser"/>
-      </group> <!-- Regression -->
     </groups>
-    <test started-at="2025-09-21T10:19:53 IST" name="Test(failed)" finished-at="2025-09-21T10:20:10 IST" duration-ms="16338">
-      <class name="testCases.TC_001_RegisterUser">
-        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:testCases.TC_001_RegisterUser@6c40365c]" started-at="2025-09-21T10:19:54 IST" name="SetUp" finished-at="2025-09-21T10:20:03 IST" duration-ms="8984" status="PASS">
+    <test started-at="2025-09-25T16:52:09 IST" name="Test" finished-at="2025-09-25T16:52:17 IST" duration-ms="8293">
+      <class name="testCases.TC_004_Search">
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:testCases.TC_004_Search@510f3d34]" started-at="2025-09-25T16:52:09 IST" name="SetUp" finished-at="2025-09-25T16:52:16 IST" duration-ms="6885" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -24,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="Register()[pri:0, instance:testCases.TC_001_RegisterUser@6c40365c]" started-at="2025-09-21T10:20:03 IST" name="Register" finished-at="2025-09-21T10:20:10 IST" duration-ms="6632" status="PASS">
+        <test-method signature="iMacExists()[pri:0, instance:testCases.TC_004_Search@510f3d34]" started-at="2025-09-25T16:52:16 IST" name="iMacExists" finished-at="2025-09-25T16:52:17 IST" duration-ms="1041" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Register -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_RegisterUser@6c40365c]" started-at="2025-09-21T10:20:10 IST" name="tearDown" finished-at="2025-09-21T10:20:10 IST" duration-ms="227" status="PASS">
+        </test-method> <!-- iMacExists -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_Search@510f3d34]" started-at="2025-09-25T16:52:17 IST" name="tearDown" finished-at="2025-09-25T16:52:17 IST" duration-ms="139" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_001_RegisterUser -->
-    </test> <!-- Test(failed) -->
-  </suite> <!-- Failed suite [Suite] -->
+      </class> <!-- testCases.TC_004_Search -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
