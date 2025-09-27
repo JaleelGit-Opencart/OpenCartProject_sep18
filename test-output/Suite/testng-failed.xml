@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_004_Search">
+      <class name="testCases.TC_006_AddToCart">
         <methods>
-          <include name="iMacExists"/>
+          <include name="AddingToCart"/>
           <include name="tearDown"/>
           <include name="SetUp"/>
         </methods>
-      </class> <!-- testCases.TC_004_Search -->
+      </class> <!-- testCases.TC_006_AddToCart -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
