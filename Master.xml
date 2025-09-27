@@ -12,9 +12,9 @@
     <!-- <class name="testCases.TC_001_RegisterUser"/>  -->
      <!--  <class name="testCases.TC_002_LoginTest"/>  -->
     <!--  <class name="testCases.TC_004_Search"/> -->
-     <class name="testCases.TC_006_AddToCart"/>
-     
-           
+    <!-- <class name="testCases.TC_006_AddToCart"/> -->
+     <class name="testCases.TC_007_Checkout"/>
+       
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

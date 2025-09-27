@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)" verbose="0">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_006_AddToCart">
+      <class name="testCases.TC_007_Checkout">
         <methods>
-          <include name="AddingToCart"/>
+          <include name="ProductCheckout"/>
           <include name="tearDown"/>
           <include name="SetUp"/>
         </methods>
-      </class> <!-- testCases.TC_006_AddToCart -->
+      </class> <!-- testCases.TC_007_Checkout -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
