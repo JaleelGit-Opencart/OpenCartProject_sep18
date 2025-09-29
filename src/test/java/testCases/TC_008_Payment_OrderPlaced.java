@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 import pageObjects.CartPage;
 import pageObjects.CheckoutPage;
 import pageObjects.HomePage;
+import pageObjects.OrderConfirmationPage;
 import pageObjects.SearchPage;
 import testBase.BaseTest;
 
@@ -70,6 +71,16 @@ public class TC_008_Payment_OrderPlaced extends BaseTest{
 		Assert.assertTrue(check.ShipAddressSelected());
 		logger.info("Shippping address radio button selected by default");
 		check.PersonalDetailContinueClick();
+		check.TextArea();
+		check.ClickTextAreaNext();
+		Assert.assertTrue(check.IsBankTransferModeSelected());
+		check.ClickAgree();
+		check.ClickNextAgree();
+		check.ClickFinalAgree();
+		OrderConfirmationPage ocp= new OrderConfirmationPage(driver);
+		Boolean confirm=ocp.OrderConfirmed().contains(rb.getString("confirmationMessage"));
+		Assert.assertTrue(confirm);
+		logger.info("Order confirmation message is displayed...");
 		logger.info("*** Test Ends ***");
 		}catch(Exception e)
 		{

@@ -46,3 +46,54 @@
 16:28:26.864 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Personal detailes entered successfully..
 16:28:26.928 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Shippping address radio button selected by default
 16:28:27.021 [main] INFO  testCases.TC_008_Payment_OrderPlaced - *** Test Ends ***
+18:21:14.234 [main] INFO  testCases.TC_008_Payment_OrderPlaced - *** Test Begins ***
+18:21:14.261 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Searching for item Imac
+18:21:15.327 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Clicked on Search Button
+18:21:15.415 [main] INFO  testCases.TC_008_Payment_OrderPlaced - added to cart
+18:21:16.570 [main] INFO  testCases.TC_008_Payment_OrderPlaced - re-directed to cart
+18:21:17.812 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Details entered
+18:21:17.905 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Shipping Dialog displayed
+18:21:18.469 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Radio button selected and clicked on apply shipping
+18:21:21.742 [main] INFO  testCases.TC_008_Payment_OrderPlaced - clicked on checkout button
+18:21:22.374 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Guest button not selected by default. now selected
+18:21:22.398 [main] INFO  testCases.TC_008_Payment_OrderPlaced - assertion passed. Guest button selected
+18:21:23.175 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Personal Details label displayed..
+18:21:23.175 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Entering the details fname, lname...
+18:21:23.876 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Personal detailes entered successfully..
+18:21:23.923 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Shippping address radio button selected by default
+18:21:28.035 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Order confirmation message is displayed...
+18:21:28.035 [main] INFO  testCases.TC_008_Payment_OrderPlaced - *** Test Ends ***
+18:22:48.338 [main] INFO  testCases.TC_008_Payment_OrderPlaced - *** Test Begins ***
+18:22:48.369 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Searching for item Imac
+18:22:49.356 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Clicked on Search Button
+18:22:49.440 [main] INFO  testCases.TC_008_Payment_OrderPlaced - added to cart
+18:22:50.680 [main] INFO  testCases.TC_008_Payment_OrderPlaced - re-directed to cart
+18:22:51.904 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Details entered
+18:22:51.987 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Shipping Dialog displayed
+18:22:52.608 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Radio button selected and clicked on apply shipping
+18:22:56.129 [main] INFO  testCases.TC_008_Payment_OrderPlaced - clicked on checkout button
+18:22:56.762 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Guest button not selected by default. now selected
+18:22:56.797 [main] INFO  testCases.TC_008_Payment_OrderPlaced - assertion passed. Guest button selected
+18:22:57.368 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Personal Details label displayed..
+18:22:57.368 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Entering the details fname, lname...
+18:22:58.063 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Personal detailes entered successfully..
+18:22:58.103 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Shippping address radio button selected by default
+18:23:02.393 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Order confirmation message is displayed...
+18:23:02.393 [main] INFO  testCases.TC_008_Payment_OrderPlaced - *** Test Ends ***
+18:23:49.682 [main] INFO  testCases.TC_008_Payment_OrderPlaced - *** Test Begins ***
+18:23:49.715 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Searching for item Imac
+18:23:50.773 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Clicked on Search Button
+18:23:50.860 [main] INFO  testCases.TC_008_Payment_OrderPlaced - added to cart
+18:23:52.124 [main] INFO  testCases.TC_008_Payment_OrderPlaced - re-directed to cart
+18:23:53.216 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Details entered
+18:23:53.310 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Shipping Dialog displayed
+18:23:54.048 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Radio button selected and clicked on apply shipping
+18:23:57.165 [main] INFO  testCases.TC_008_Payment_OrderPlaced - clicked on checkout button
+18:23:57.725 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Guest button not selected by default. now selected
+18:23:57.753 [main] INFO  testCases.TC_008_Payment_OrderPlaced - assertion passed. Guest button selected
+18:23:58.326 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Personal Details label displayed..
+18:23:58.326 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Entering the details fname, lname...
+18:23:58.948 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Personal detailes entered successfully..
+18:23:59.001 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Shippping address radio button selected by default
+18:24:03.477 [main] INFO  testCases.TC_008_Payment_OrderPlaced - Order confirmation message is displayed...
+18:24:03.479 [main] INFO  testCases.TC_008_Payment_OrderPlaced - *** Test Ends ***

@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-29T16:21:43 IST" name="Suite" finished-at="2025-09-29T16:22:05 IST" duration-ms="22096">
+  <suite started-at="2025-09-29T18:21:02 IST" name="Suite" finished-at="2025-09-29T18:21:28 IST" duration-ms="26118">
     <groups>
     </groups>
-    <test started-at="2025-09-29T16:21:43 IST" name="Test" finished-at="2025-09-29T16:22:05 IST" duration-ms="22096">
+    <test started-at="2025-09-29T18:21:02 IST" name="Test" finished-at="2025-09-29T18:21:28 IST" duration-ms="26118">
       <class name="testCases.TC_008_Payment_OrderPlaced">
-        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:testCases.TC_008_Payment_OrderPlaced@7817fd62]" started-at="2025-09-29T16:21:44 IST" name="SetUp" finished-at="2025-09-29T16:21:55 IST" duration-ms="11119" status="PASS">
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:testCases.TC_008_Payment_OrderPlaced@7817fd62]" started-at="2025-09-29T18:21:02 IST" name="SetUp" finished-at="2025-09-29T18:21:14 IST" duration-ms="11724" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="PaymentAndOrderPlaced()[pri:0, instance:testCases.TC_008_Payment_OrderPlaced@7817fd62]" started-at="2025-09-29T16:21:55 IST" name="PaymentAndOrderPlaced" finished-at="2025-09-29T16:22:05 IST" duration-ms="10239" status="PASS">
+        <test-method signature="PaymentAndOrderPlaced()[pri:0, instance:testCases.TC_008_Payment_OrderPlaced@7817fd62]" started-at="2025-09-29T18:21:14 IST" name="PaymentAndOrderPlaced" finished-at="2025-09-29T18:21:28 IST" duration-ms="13813" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PaymentAndOrderPlaced -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_008_Payment_OrderPlaced@7817fd62]" started-at="2025-09-29T16:22:05 IST" name="tearDown" finished-at="2025-09-29T16:22:05 IST" duration-ms="264" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_008_Payment_OrderPlaced@7817fd62]" started-at="2025-09-29T18:21:28 IST" name="tearDown" finished-at="2025-09-29T18:21:28 IST" duration-ms="249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

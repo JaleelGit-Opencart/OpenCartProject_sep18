@@ -22,6 +22,13 @@ public class CheckoutPage extends BasePage {
 	@FindBy(xpath="//input[@id='input-payment-city']") WebElement txt_City_ele;
 	@FindBy(xpath="//input[@name='shipping_address']") WebElement check_ShipAddress_ele;
 	@FindBy(xpath="//input[@id='button-guest']") WebElement but_PersonalDetailContinue_ele;
+	@FindBy(xpath="//textarea[@name='comment']") WebElement txt_TextArea_ele;
+	@FindBy(xpath="//input[@id='button-shipping-method']") WebElement but_AfterTextArea_ele;
+	@FindBy(xpath="//input[@value='bank_transfer']") WebElement radio_BankTransfer_ele;
+	@FindBy(xpath="//input[@name='agree']") WebElement check_Agree_ele;
+	@FindBy(xpath="//input[@id='button-payment-method']") WebElement but_PaymentModeNext_ele;
+	@FindBy(xpath="//input[@id='button-confirm']") WebElement lnk_FinalAgree_ele;
+	
 	
 	public Boolean GuestButtonSelected()
 	{
@@ -80,5 +87,29 @@ public class CheckoutPage extends BasePage {
 	public void PersonalDetailContinueClick()
 	{
 		but_PersonalDetailContinue_ele.click();
+	}
+	public void TextArea()
+	{
+		txt_TextArea_ele.sendKeys("The Product is good...");
+	}
+	public void ClickTextAreaNext()
+	{
+		but_AfterTextArea_ele.click();
+	}
+	public Boolean IsBankTransferModeSelected()
+	{
+		return radio_BankTransfer_ele.isSelected();
+	}
+	public void ClickAgree()
+	{
+		check_Agree_ele.click();
+	}
+	public void ClickNextAgree()
+	{
+		but_PaymentModeNext_ele.click();
+	}
+	public void ClickFinalAgree()
+	{
+		lnk_FinalAgree_ele.click();
 	}
 }
