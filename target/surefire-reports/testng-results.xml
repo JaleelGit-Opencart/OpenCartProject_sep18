@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-27T20:11:23 IST" name="Suite" finished-at="2025-09-27T20:11:34 IST" duration-ms="11795">
+  <suite started-at="2025-09-29T16:27:54 IST" name="Suite" finished-at="2025-09-29T16:28:28 IST" duration-ms="33929">
     <groups>
     </groups>
-    <test started-at="2025-09-27T20:11:23 IST" name="Test" finished-at="2025-09-27T20:11:34 IST" duration-ms="11795">
-      <class name="testCases.TC_007_Checkout">
-        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:testCases.TC_007_Checkout@409bf450]" started-at="2025-09-27T20:11:23 IST" name="SetUp" finished-at="2025-09-27T20:11:30 IST" duration-ms="7149" status="PASS">
+    <test started-at="2025-09-29T16:27:54 IST" name="Test" finished-at="2025-09-29T16:28:28 IST" duration-ms="33929">
+      <class name="testCases.TC_008_Payment_OrderPlaced">
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:testCases.TC_008_Payment_OrderPlaced@409bf450]" started-at="2025-09-29T16:27:54 IST" name="SetUp" finished-at="2025-09-29T16:28:13 IST" duration-ms="19321" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="ProductCheckout()[pri:0, instance:testCases.TC_007_Checkout@409bf450]" started-at="2025-09-27T20:11:30 IST" name="ProductCheckout" finished-at="2025-09-27T20:11:34 IST" duration-ms="4322" status="PASS">
+        <test-method signature="PaymentAndOrderPlaced()[pri:0, instance:testCases.TC_008_Payment_OrderPlaced@409bf450]" started-at="2025-09-29T16:28:13 IST" name="PaymentAndOrderPlaced" finished-at="2025-09-29T16:28:27 IST" duration-ms="13309" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ProductCheckout -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_007_Checkout@409bf450]" started-at="2025-09-27T20:11:34 IST" name="tearDown" finished-at="2025-09-27T20:11:34 IST" duration-ms="150" status="PASS">
+        </test-method> <!-- PaymentAndOrderPlaced -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_008_Payment_OrderPlaced@409bf450]" started-at="2025-09-29T16:28:27 IST" name="tearDown" finished-at="2025-09-29T16:28:28 IST" duration-ms="965" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_007_Checkout -->
+      </class> <!-- testCases.TC_008_Payment_OrderPlaced -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

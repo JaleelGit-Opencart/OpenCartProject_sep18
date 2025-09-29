@@ -18,7 +18,7 @@ public class CartPage extends BasePage{
 		super(driver);
 	}
 	
-	@FindBy(xpath="//a[normalize-space()='Checkout']") WebElement lnk_Checkout_ele;
+	@FindBy(xpath="//a[@class='btn btn-primary']") WebElement lnk_Checkout_ele;
 	@FindBy(how=How.XPATH, using =("//a[contains(text() , 'Estimate')]")) WebElement drop_Estimate_ele;
 	@FindBy(how=How.XPATH , using="//select[@name='country_id']") WebElement drop_country_ele;
 	@FindBy(how=How.XPATH , using="//select[@name='zone_id']") WebElement drop_zone_ele;
@@ -91,7 +91,9 @@ public class CartPage extends BasePage{
 	}
 	public void clickCheckout()
 	{
-		lnk_Checkout_ele.click();
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		WebElement clickable=wait.until(ExpectedConditions.elementToBeClickable(lnk_Checkout_ele));
+		clickable.click();
 	}
 	public Boolean ShipDialogDisplayed()
 	{

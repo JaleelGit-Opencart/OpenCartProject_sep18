@@ -1,5 +1,6 @@
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\BasePage.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\CartPage.java
+C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\CheckoutPage.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\HomePage.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\LoginPage.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\pageObjects\MyAccountPage.java
@@ -13,6 +14,7 @@ C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\t
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testCases\TC_005_AdvSearch.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testCases\TC_006_AddToCart.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testCases\TC_007_Checkout.java
+C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\testCases\TC_008_Payment_OrderPlaced.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\utilities\DataProviders.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\utilities\ExcelUtility.java
 C:\Users\oneba\Downloads\Eclipse_workspace\OpenCartProject_sep18\src\test\java\utilities\ExtentReportManager.java

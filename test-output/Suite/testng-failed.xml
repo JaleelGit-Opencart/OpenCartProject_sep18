@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_007_Checkout">
+      <class name="testCases.TC_008_Payment_OrderPlaced">
         <methods>
-          <include name="ProductCheckout"/>
+          <include name="PaymentAndOrderPlaced"/>
           <include name="tearDown"/>
           <include name="SetUp"/>
         </methods>
-      </class> <!-- testCases.TC_007_Checkout -->
+      </class> <!-- testCases.TC_008_Payment_OrderPlaced -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
